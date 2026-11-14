@@ -1,7 +1,5 @@
 {
   "seen_news": [
-    "CBMiwwFBVV95cUxQM2VTV1QtdVV3RWluc1prek41NnA1ajhId19NY0VXU2Z1R2U5aWctV2dJem1HS05rYm45d0thdnJzN3JpUGJFRTlwUzJaYkU3bi1aZF9HYklKemRMemxTOVFLN1RBNDFfMk1LeGtpQUJ1RG1YR29lckhRWHdScXZFMGhOZE43eHBWRjdqemVFQzlOUUdKV2JYblRaZ0hDVDg4elJYX3pCQW1ZQWRORWlpUXhGeHN6ZDZ2WHZ1c2c0WU5Kck0",
-    "CBMiwwFBVV95cUxQMHVadDdaVlRERXBkMnNHclVhMmxLaDhBalpNano1QWYyMEJiLUhhSnhQTGRIdENZVExOZW91ek5rMzBJYVNiSW1wS09odzZJY3Q4TzFIXzV5WVVJdmh4QkVhQnN5NjdZLThVZGRsV0FOX0dtNXhxRzUxejZWZkNRTTFXRC1jekI4MDcyZ3FtcHREMTdXX1ZCMjFya242VGNsSkppc09QUlJCc0gwMEJvS21Sd1JYdmY1dHNZbHkyS293bEU",
     "CBMiwwFBVV95cUxQNC11OEY3XzBCdzJDOUNZb0w4ZEhKY0FGa2RVTFJaemNPNlFSbDNFWmNZaXRVUW9ZQXlscEx2UXhjMHo2UGtGaDdidWo4U1phRVlWQVdNb1J4OEl4Y3BXUHpyY3dWZVByWnMxNTZ5OFAzTHNlUmRPZ2ZHY0RwaWRwS3p4dTBIOGhFYnNCNW1CQi1FdjVNT1hmQXpNRDdGelpqeF91RmFReW9LQ0VlampncU1vR0l5Um1XZWxPV3UtdjZmdk0",
     "CBMiwwFBVV95cUxQQ01pbkpYS2J0UVYtVkJmZS1Sa2dCOHN4VEF1ckpHWHdZMkpCY2FKZ3FXMW90SWN1UlB0NXd6X1RDR0R1dG13OWx2RXQ5QXpYMFZ4aHlLejhTb24xLVBNSXk5azdvODVLMTQxdjBzM3N4OHI0eXFIWWw3ZXFJc0xQZFQ3TWFNUTJHZlY5QWlxS3dqbmQwMFdFRW5PZ3d0RHBrQXNKd0QyMG5VN0NvQzcyYUV0QVc5T3pjU191SXFpWUFEVVk",
     "CBMiwwFBVV95cUxQQW9aRGtNM0pQN0ZFVndfNTIwbXhuTmhJYjg2LVhjSUhHalNGNkdxcTJTdGFPd01wY3hlWkxGMjE4OVdzQ0I1Yzdfck5OMDFkX1l4d2dzNWtZb0RzQnN2ZUJnc0t6WGZkZVpzc3lIcmRubHFPUXYyTkJyNzBPUjZBSmdKOWZYOXpwWFROb0IxZmF4dXh6aVVVbEx3UjAtdUdXV21EMl9tNGRtMUVwaWJ1MGl0SldCZGdtRjhNU3J4a3Z3ekU",
@@ -794,6 +792,7 @@
     "d9091a58-98bc-4e42-bc3d-94156f3dcaee",
     "d97b3df6-d973-4290-894b-1d855243ef9e",
     "d9fe6660-302e-4d75-b2a1-ba278bba6244",
+    "da4117b5-ddfe-4acf-909d-cd2b308d8651",
     "da73ec1d-f0de-421a-8f0f-cb64f22cc42f",
     "daa58ade-169e-5d81-8566-becf7b9a588a",
     "daa9810d-f7cc-5569-a507-0ccf0e0d0657",
@@ -1308,6 +1307,7 @@
     "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings",
     "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy",
     "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services",
+    "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out",
     "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana",
     "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens",
     "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december",
@@ -1502,21 +1502,21 @@
     "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv"
   ],
   "seen_trending": [
+    "aero",
     "akedo",
-    "avalanche-2",
     "bitcoin",
     "bittensor",
-    "ethena",
+    "cardano",
     "ethereum",
     "hyperliquid",
-    "injective-protocol",
-    "internet-computer",
-    "monad",
+    "kava",
+    "ondo-finance",
     "pearl-2",
-    "pepe",
     "pudgy-penguins",
+    "ripple",
     "solana",
-    "venice-token"
+    "sui",
+    "uniswap"
   ],
   "initialized": true
 }
