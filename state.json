@@ -1,6 +1,5 @@
 {
   "seen_news": [
-    "CBMiwwJBVV95cUxOMER4U0lnTUNlelhqYU9pSVRyZW9SYTZ4TG1TQ0tpd1U2ODFBRnZYaW5iNllJTGMwUDNkUVRhSjJiZm5JNmR2eEIxakt0bVkxV3BUVlFZcV9SbmRMYVJ0QzBzYVNFaWlyTnhId01rcFhyQ2V6TW45YXNFZWdIY25WdG5CX3V6OWsxZlpuYVRqSS1mZTlHbFY4T19ScXFzM2ZfdU0zSWduVUlPQUprZUZLV3oxb3VqcG9LRGc0dzl2T1ZpWEhoRWtTTEpURHo5dTBwQ29uZnNoVG96cFk2MlIzLU1EZE1STkVtVnYzZHFVblZQZEF3eW42MmJ2NWpJaEszdGRiZ1g1eVVGYnMxeHZoZ0JpcExoTVJEc2xLZnRVQ0pmTU4zVFlRc1hXSlgtTENESzl1a3FfX3daRU1EVmd2cnZLaw",
     "CBMiwwJBVV95cUxQSEpWaHctVExTVi15SlVubkJiWEd1Mk95Z0lJN2RsNmVlVkxhdVFURjFEV0RRRzRaR2Vqd20tWXRyNFJxdnVzSjRBdDd0Z1NiTklvSjdXQUR3WFh6Q2s4VC11U3RwN3l1ZzlqT3NJVU9YR1FENHQ0VThJS1VNUHZ1QkJXdlNYRElsVWs4NkhmVnVtZnItWHZYUGZxdl9zZ1dHUUpxS3Z2T3lOMnFCM1N2Z2Npb2F2Wi10ZjNsSEd2ZTF4ZUt1TnVrS3FXWnRmb0ZGSmFXVmg4Q3VXM1JoRW1kRDZYVS1HSU5NU0gzcHBfZ1dXMUdOb0VqbWt3UDlSakdLYUp2MGkxcC1WUENCdnAzS1Vka2U3OEpmMEg0ZXRieHhQZEk1dVhWVHNNNnNfLWJBY19ncDV4RkRiYVYyMDFtZlV1cw",
     "CBMiwwJBVV95cUxQeUlfVDA4aEZVbWkxcXdwOXIyWS1XY2NrUG5WS0NucEx3amNNWlRFRVBhaXliMk5HckZhTTFUTmoycEFYWVpweUtMaHZhSE9GRjh2S2lpQVJsNnQxbHJpTFhpVlF1Z3pTOTRZNnVDYTBBZVRoQUh3UHMwWVlSOF8yWHdRSFYwRE1yWGNVcTZGZzdwMUNRa1ZvUjVabE1qNmNhTEpVQ2I4dTEtRVpxS1AwSHdHTUdKNVNnNUdHdlBKeWVYVHMwcExXdHJ3bEdtUG9rTUE3cG1NQ05MbXl1WXlFU2N0cjROa3hVckF6cmtrc1M5bTZHWFFyeG5mQ2pTbmpxckRrcjdjR3U3WXBjSlRKOGliYTMyWXZHOVhraGJ0ZzNhSDU2RWU0RE5Pa01IWWpqYUZhQjNPVE0zNV9pQjYwckxzOA",
     "CBMixAFBVV95cUxNME1VNllKbWRVZThHQ1pEY3FMUjA4VUJBNVJUMkhkcGZhZDRtb2hUQ3VJUXdHcFlDMHZOYlpoLVNVMVlFU09YLUhGZnpheGtkaDM1bUtuSXFFclJzR1pQeERvcDd4dnByR29PSHNhQVdLcjNmRlRneFdtS1YxR2dkcE53eklfLUR6dzNwczQ4Z2hxXzhDYW1GeGJHbVFTcUljOUZaYnEtU2YtWnZ0dHVyZDlGX09NRzdzQnFtckpHUFlWbGxw",
@@ -941,6 +940,7 @@
     "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express",
     "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains",
     "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express",
+    "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest",
     "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest",
     "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen",
     "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable",
@@ -1502,21 +1502,21 @@
     "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv"
   ],
   "seen_trending": [
+    "aave",
+    "aero",
+    "aster-2",
     "audacity-4",
     "bitcoin",
-    "ethena",
-    "ethereum",
     "gato-the-cat",
-    "identity-md",
-    "lighter",
+    "hyperliquid",
+    "jupiter-exchange-solana",
     "macca-the-gator-2",
-    "monad",
-    "ni-hao-cat",
+    "pearl-2",
+    "pons",
     "pudgy-penguins",
+    "pump-fun",
     "solana",
-    "uniswap",
-    "venice-token",
-    "zcash"
+    "sui"
   ],
   "initialized": true
 }
