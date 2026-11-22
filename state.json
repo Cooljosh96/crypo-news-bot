@@ -1,7 +1,5 @@
 {
   "seen_news": [
-    "CBMiyAFBVV95cUxNbm5pWDd4RndldEZ5NU1XRVVESnRLMmdDSUdqU3BDdUx0a29iMEFEMFY1UThtWk5VdDhXd2JMMllwd3h1M0FVZzNNZkM2NmVHUm4wd0FQMk81UDlYZksycnV5N2JIQ1hoYmNsbHlSTURFMkhyc0pSemo2MEt6R2N0amtPenJQWkNZNG1BSUhmbm1MYThvS3ZaNWJsWGtZbmlkOTQtX1Y0RElUYkNwQjlDSWo2MUp4NmJUVU14TWZJaGxpeUZCdzRyWg",
-    "CBMiyAFBVV95cUxNczJJRmdtNTlzTnNJclpRV3JGbmR1aE9HdThRTmFsWDQ0LTlnTlFLNTYtd3hBMDEtaGRTUHlGR0k1cDVObnRrQTN3T2x1NEQyTl91YmcwRmdzUW1OUmN2RDVTNVJRNEV6dFl4OHJ5MnUtWWZ4TWpDaWh1bm5TUkhSYWVxbzQwbzlPSDdZaTQxT1BXaXpUSVlZS01CSU10akltazhkTnhQb29OdnF1RXFVOTZFdG9kVXRpZmppd1drN0dmMzJBdW9KYg",
     "CBMiyAFBVV95cUxNd3BCaGxuNng0UG5TQjAzSENJYk9EM1RZa0FuN0daOWEtMVNxQUFzRGVaSEtVakd6Tml1N2hhUVQzWlZmS3NXNGtDUFdEeDVjV0VfamhDR1lZaDJkdlBuQ2Z6ZkRjY1RQcHkyVktfaEtuTmE4dkJ1elNVSEI0MFU2eUZZTkZNVk43eDA3QVhpWEQwaUJZY25OYktlZW5TYjQ0M2hKODZJeVRxaVF5XzJRYzY0Y2RBS0VzWnhCWl96TW9tQ2VBVGhCNQ",
     "CBMiyAFBVV95cUxNdTZMcTFoM2wtYUtJcU43S2NSQWRMX3hwcFM3NnVwUl9TaU9NMG1MMHI2cHplMWlFNzA5M2tkTWhtYnlCTU93STRDckQ5SGMxdFBqeTNuSjk5M2FIMnFNSnV4WmpsWjJ2LXlxVjBkTldyM202d0wyUXI1a1M3elVqTlFReVlxSEdaSWdXM0E3bFlNdHNrTEFxM0xoUi1wVHRWTmZuZU56OWhUZENBcVpZVTl1VklBSkpNUXhndEhvRWE4ajN2bU1XWA",
     "CBMiyAFBVV95cUxNeFR3cUNxUDFQMHk2bDkwSzVfTFN6S1Q4a0F6dWlfWU03S2pWMTBEWjVwUVI5Zjl3Q0ZPa2U1QUtpMEdKOERRTjA4OC1FbzNZRG9qUW9XUm5uc3dNVzIxbHhCZ2NzSHBKa1I2R1dEQ2Jhd1gxV2ZSdGVlOHBUX1Y1Q3d0NEp6cEw5OVRxaFpzaU5KaFc4VVYxcWZoT1BhRlFkSjJ1bFR5MUhUVXhNbXNBaTgtT1laVkEwMXNnbXJ6akdPSl96c3R6cQ",
@@ -257,6 +255,7 @@
     "CBMizAFBVV95cUxQQlJORWlVUG1BTHcwbWNvcFcxRUUyYzhJLTNvYWtHN0tCUWtSbXhyQUxkd3l4bnpUR1o2NTl4dkp5U210NTVDYi05UmRmRVpKQTFYOWFvX2xiQ2p1NGxESjYwbzQ0c1F4bTVLbmpQVmMzQTExZ2dnbjdVNXVJU1BUNFNXa0xPNjBGNjVGRUJKYmVjUF9XN3NqZ3hRMzJMVERpamEzQUQxQWFFX2tEek5LT1FiYlMyYWEyRnU4VzBRa2cxUVFzSEYyNTdyYU8",
     "CBMizAFBVV95cUxQREtMSXlLVGY1TGZ6S1Q4WDBzN1pHREZFNFhseGZwcE9RckZjRC10U1ozeTMwejByYS1BNVg4X3ctZ3R2eERJTS1aME5vbG8xX1FFRzkxSlQwVHRzTnJWQTl0aDdJanhBa196bXJTbXIwRHVCNWtMNUREYUpueERPQ1FtSmgtT2VxZ3owRjludmdyMlRWMkhKZUFhZUtNdXJvazJNVVFYdzRMd1VnUFlQbkNhbGNFeE5ZaFUwbGNCaVlpeVJWZnZTNmZuUHI",
     "CBMizAFBVV95cUxQTGs3ODQ1Y2lQTVg5aDFMN1MzNHJYUTNDbUdvQUZaeEpsUWdkQlBJbUxLOUl3dE51cmMwS2hJaS1mRU9CT1JJZER3M1RPN2c1NmxISGx3ZURIYVRwWXFDVWR5dVQxcjBBTHhkdUpSbWh5QTJJUVdkdlRMSU1HV3ZtQUoxbGdISHBPbHJKSzQ3OS0zbjVLMlpvOTN6bVgtdGx5VThETU5CYk9FMHhYRFpOYmlpWmlYVVZBaUV5ZGRNTnIyYl9rLVVKOF9ITW4",
+    "CBMizAFBVV95cUxQTXY1MXdHQlJRRFBiU2RtMDllaEpRb2VUbXRfMWpicGZCbjNXS0pDaW5pb2xGU3hqV3pVV1d4Y0cxTmwyVzc3XzE3WGJrRC15NFJVTW4xTFBnU3B2TjkwWU5tOU85RW1VY0ZyT0wzclRxRVhVSHU5LVFKT0Q5X2dudTJleDBGb0kyS3prdFp5dE8yVnFKeXJ1Y2ZST2FoUXVnbXNOTWx3d0Jrb0dPbC10ZjNmN2N0WWZjbmJfOU9Ma3RRMmFSZGl2Y3F6aEo",
     "CBMizAFBVV95cUxQUjVjLUVRanROLUx1dE53SXZCSGkyWHZoRjFfckkzQ1R4UE1nWEtEMjBsQ1B4bGxJbDRTanFwdVh6UHk2RjhnY0VIenIwY2duRjJMYnEzUy1IelV2ZlJZVGJFNzlJSDNxbF9FTlhXbzFFbmstTG5vYTBlZ0txbDBRS044dGQ0OFpONC1NT1JwdzVWelBXV2ZEUVhSUk4tTFh5VWVFX0I2b2pMZl9uVTNhWm1WYjFrUGkzcWllYzQzT0dxalV2c3NITEJGWFU",
     "CBMizAFBVV95cUxQUjh6c2lxbk0tRklpaVkyUnRTdnVnNnhOdk5Nc20xZllUeDlSTDdQanBBVzJxVGhEdUplZHBHZkFzY21vMVBheW5MbDhHMDU2Q0UwMWFRQnU0UENSWFVJMktYU1FtQjVucDJDbmxNMlJiU1ZPaktqd2NKdjVzT296MEJNS3lGelNpQkZPMHJaVHp3WUVMdUgtZEFYRC1KU2pFWk0wUEp3STJQUTBuRVZyMkk1enhESHVRZnUwb0hBd2k1anJERXhvc3ZSNXI",
     "CBMizAFBVV95cUxQWC0zajZNSmFOdERMNXl5NTQwRFhUMzM2aVBDSWpiclhIU1NQZ3VOcWxwbmVUaVI3SzJaYmJqVXcxZjhHQkRXSjFpcGZ5OHQ3V1JTcDZWRmpuM1hvT3V1ZUxjWlBEVlRMVjAwUVUyZFN5bFpCQm45MGFvTWlla0QtNVd1NVp3eVBISVh3OUVDdXhULTdiWm5VQ1I3U0JOUlJXR0NhQmE4OGdTVWFJUUlkazB2Q25sY3d0UU9pc1p3ZTdFd29acDVlRjdEYm4",
@@ -1091,6 +1090,7 @@
     "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts",
     "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed",
     "https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions",
+    "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty",
     "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules",
     "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout",
     "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok",
@@ -1502,21 +1502,21 @@
     "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys"
   ],
   "seen_trending": [
+    "akedo",
     "bitcoin",
-    "curve-dao-token",
-    "derive",
-    "dogecoin",
+    "elsa",
+    "ethereum",
     "evaa-protocol",
     "hyperliquid",
-    "meet48",
-    "monero",
+    "kaspa",
+    "monad",
+    "official-trump",
     "pearl-2",
-    "polkadot",
+    "pieverse",
     "pudgy-penguins",
-    "ripple",
     "solana",
-    "sui",
-    "venice-token"
+    "venice-token",
+    "zcash"
   ],
   "initialized": true
 }
