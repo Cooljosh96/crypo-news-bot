@@ -1,7 +1,5 @@
 {
   "seen_news": [
-    "CBMizAFBVV95cUxNRXgxNEYxNmR5Q2lGMXQwSGZCOTV5c0tXd0c1YlJqd0tGMlNfNTQ2eDk2UkJIbmZtZzliN2JCWWUyVnR6QTlOX05UcFdMWkFyRVB3T08yRHR3eDNjNS1zMXRfMTBUNjdjeEdqUXZWbGplRW9ONk1fUUl2TmVHRW9oQ2kxNTBaTUU2OFA1b01fSjVoZTRkMmxuV0lGMEFpVmlNUGVsZTRHS0RNTG9mSFZHNVBZSU04MVo1Q2ZiQ2Z5VV9MUE5OMU1iM1Z6XzE",
-    "CBMizAFBVV95cUxNSEpESWN4SE44cmRfQ0YzbFJQdFhtYW5IdzlLc2xSbGpVTkN3MXVHRDlTYW9xNVl1WWZLc09BNkdwUGZxT3FicW9Yb0p4RmZZbnVNTE5ObGx3OGFJMW41M3h4emJ4SnFrS0hyN0x5N3FsdnVCWmozMmo5bmNUekhoNjhQNEZnUzRhaXpURkFrYlNBZ1Y5aDlKaTg2eGxsTlFVOUZhcmpDR0ljNkRQV1NqYVI5YjR5enFQc1NqbEs2MWJIU2o4WUtqTXE4Vi0",
     "CBMizAFBVV95cUxNTDFLMHN2N3hvVmN4QUFxUVB1RDRYWDlKTm9MYmZwSnc1cGJIZGlPU09NNmhvWVNFYVo0WXE3Wmp5b1lWZE9MM0xYMUMwSXVuY3lKeXVWVHR2djdlYjV1TDc4RHJzc08tX3Q2T2JLTnl3azlBV0NZX1FNbS1ZQXpHVERjSEFhS0owOUVnRU9ZZWt3U3RHWWhRbmRDSVZ4VUlON1VRM3dnYmVvcGcyQnl1V3E4Zzl0cFI1MlNmVFp4SDVaV2dCUG5FdEdNZHg",
     "CBMizAFBVV95cUxNTUN5VG9PeTdvbG9jNTdYLS1sbnBRNmo4R2pQVlFxdnZUc0tBdkc1S0NfaXVrdGJoM0pJNk80TjVQVzRSOHBjVTdWY1BQRWtFX2FKeTVLZDBFdGxPeXVhckRySWQ0S0tiNUdDQ3FFSWpsQzJDV3Jkd29uUlYwSXFYOVZBY09CNGQzUlVyaElpb01LSUp6bkE5OElJYWxBNGxMdERWa3RWV1pYN0h3dGVwUEZPRVNSNnRwZHduN3hwRC1nYlA2ZmNtbDJCRWI",
     "CBMizAFBVV95cUxNVU1OeXFfSjEtWlFhSm5FSjVEWVhWNW1oQWl4TTU2dkJyQ2xwcllRaDRQd2FkdkQ5bWxtVEp0ajNENE9QeTFYREJNX3d1MGpzY09ENDZCQVhZQnhhTkQydE5aZEJlSkJ6WElyZTZlVkpUbXVDNzV4VHdoQy1peFJmUW41OFB0cVpvT251enl4dVM5TGJ1NmIzZF93Z0V1bXlnNVlPd2VvWGxja1ZRZm0zLWJzdmJwWkpNRmpxXzh1d1V1V1dTSWpQQkhnOU0",
@@ -919,6 +917,7 @@
     "https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish",
     "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales",
     "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc",
+    "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation",
     "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections",
     "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework",
     "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout",
@@ -957,6 +956,7 @@
     "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns",
     "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack",
     "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit",
+    "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan",
     "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear",
     "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack",
     "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack",
@@ -1502,21 +1502,21 @@
     "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys"
   ],
   "seen_trending": [
-    "akedo",
+    "aero",
     "bitcoin",
-    "bittensor",
-    "coredaoorg",
-    "ethereum",
+    "bitway",
     "hyperliquid",
-    "kinetiq",
     "monad",
-    "monero",
+    "official-trump",
     "pearl-2",
-    "pepe",
-    "portal-2",
+    "pudgy-penguins",
+    "pumpchan",
     "solana",
-    "sui",
-    "zcash"
+    "usd1-wlfi",
+    "venice-token",
+    "world-liberty-financial",
+    "zcash",
+    "zylo-ecosystem"
   ],
   "initialized": true
 }
