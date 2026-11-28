@@ -1502,21 +1502,21 @@
     "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys"
   ],
   "seen_trending": [
+    "akedo",
     "bitcoin",
     "bittensor",
-    "chainlink",
-    "derive",
+    "coredaoorg",
+    "ethereum",
     "hyperliquid",
+    "kinetiq",
+    "monad",
     "monero",
     "pearl-2",
+    "pepe",
     "portal-2",
-    "pudgy-penguins",
-    "pump-fun",
-    "pumpchan",
-    "sky",
     "solana",
-    "zcash",
-    "zylo-ecosystem"
+    "sui",
+    "zcash"
   ],
   "initialized": true
 }
